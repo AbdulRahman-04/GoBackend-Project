@@ -36,7 +36,7 @@ var AppConfig = &Config{
 	JWTKEY:  "your_jwt_secret_here",
 	Email: EmailConfig{
 		User: "your gmail id",
-		Pass: "your app password",,
+		Pass: "your app password",
 	},
 	Phone: PhoneConfig{
 		Sid:   "your_twilio_sid_here",
