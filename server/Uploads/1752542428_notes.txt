@@ -1,0 +1,74 @@
+
+Go Backend Mastery - 2 Week Realistic Time Table
+
+Day 1:
+- Install Go environment and setup workspace
+- Write and run your first Go program ("Hello World")
+- Understand basic syntax: variables, types, constants
+- Practice small programs using variables and printing output
+
+Day 2:
+- Learn Go data types in detail: int, float, string, bool
+- Practice type conversions and type assertions
+- Write small functions using these types
+
+Day 3:
+- Understand control structures: if-else, switch-case
+- Practice writing conditional statements and loops (for)
+- Write small programs using loops and conditions
+
+Day 4:
+- Learn arrays, slices, and maps in Go
+- Practice creating, updating, and iterating over arrays/slices/maps
+- Write functions that take arrays/slices/maps as input and return outputs
+
+Day 5:
+- Understand structs and pointers in Go
+- Practice creating structs, accessing fields, and passing pointers
+- Write programs using structs and pointers
+
+Day 6:
+- Learn Go interfaces and embedding
+- Practice writing interfaces and implementing them in structs
+- Understand how interfaces provide abstraction
+
+Day 7:
+- Error handling in Go: error type, multiple returns, defer, panic, recover
+- Write functions that return errors and handle them properly
+
+Day 8:
+- Introduction to Gin framework setup and routing basics
+- Create a simple Gin server with GET and POST routes
+- Practice writing basic route handlers and sending JSON responses
+
+Day 9:
+- Understand request parameters in Gin (path, query, form-data)
+- Practice extracting parameters from requests and validation basics
+
+Day 10:
+- Middleware in Gin: creating and using middleware for logging and authentication
+- Practice adding middleware to your routes
+
+Day 11:
+- Connecting MongoDB with Go (using mongo-driver)
+- Practice basic CRUD operations (Create, Read, Update, Delete) on MongoDB
+
+Day 12:
+- Implement user signup and signin handlers step by step
+- Practice hashing passwords and JWT token generation
+
+Day 13:
+- Email verification flow: generate tokens, send emails (mock), verify tokens
+- Practice updating user data after verification
+
+Day 14:
+- Forgot password feature: generate new password, update DB, send email (mock)
+- Review all the above in a mini project that combines signup, signin, email verify, and forgot password
+
+General tips:
+- Every day write notes on what you learned and questions that come to your mind
+- Practice reading existing backend code line by line and understand every word (variables, functions, structs)
+- Always write small test programs for every concept you learn
+- Ask for help whenever stuck, no matter how small the issue
+
+Good luck bro, stay consistent! 💪🔥
