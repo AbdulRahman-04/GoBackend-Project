@@ -31,12 +31,12 @@ type RedisConfig struct { // 🔥 add this
 var AppConfig = &Config{
 	AppName: "Event_Booking",
 	Port:    4040,
-	DBURI:   "mongodb+srv://abdrahman:abdrahman@rahmann18.hy9zl.mongodb.net/Event_Booking",
+	DBURI:   "your mongodb url",
 	URL:     "http://localhost:4040",
 	JWTKEY:  "your_jwt_secret_here",
 	Email: EmailConfig{
-		User: "abdulrahman.81869@gmail.com",
-		Pass: "qeoj txip ckjg kydt",
+		User: "your gmail id",
+		Pass: "your app password",,
 	},
 	Phone: PhoneConfig{
 		Sid:   "your_twilio_sid_here",
