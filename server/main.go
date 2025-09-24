@@ -75,6 +75,6 @@ func SecureHeaders() gin.HandlerFunc {
 		c.Writer.Header().Set("X-Content-Type-Options", "nosniff")
 		c.Writer.Header().Set("X-XSS-Protection", "1; mode=block")
 		c.Writer.Header().Set("Strict-Transport-Security", "max-age=63072000; includeSubDomains")
-		c.Next()
+		c.Next();
 	}
 }
